@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Todohelpist
+        psr4_prefix: Todohelpist
+        src_path: app
